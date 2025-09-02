@@ -51,4 +51,4 @@ plt.show()
 <img width="956" height="545" alt="image" src="https://github.com/user-attachments/assets/9c0735f1-cadb-42ef-933e-ed379ac81c8e" />
 
 ### RESULT:
-        Thus we have successfully implemented the auto correlation function in python.
+Thus we have successfully implemented the auto correlation function in python.
